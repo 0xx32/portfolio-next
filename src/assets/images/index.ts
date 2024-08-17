@@ -1,0 +1,1 @@
+export { projectsImages } from './projects';
